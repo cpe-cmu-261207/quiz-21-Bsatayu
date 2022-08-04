@@ -12,7 +12,6 @@ async function callApi() {
 
 
 
-
 RandomPeopleImages.onload = () =>{
   
   btnRandom.disabled = false
